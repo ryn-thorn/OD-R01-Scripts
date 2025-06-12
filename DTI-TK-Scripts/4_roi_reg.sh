@@ -6,8 +6,8 @@
 #      
 #############################################
 
-export roisorig=/Volumes/vdrive/helpern_users/helpern_j/IAM/IAM_Analysis/dki_dti-tk_longitudinal/01_Protocol/ROIs
-export ana=/Volumes/vdrive/helpern_users/helpern_j/IAM/IAM_Analysis/dki_dti-tk_longitudinal/03_Analysis
+export roisorig=/Volumes/vdrive/helpern_users/benitez_a/OD_R01/01_Protocols/ROIs
+export ana=/Volumes/vdrive/helpern_users/benitez_a/OD_R01/03_Analysis/DTI-TK
 export roiwarps=$ana/04_ROI_Warps
 
 mkdir $roiwarps

@@ -5,7 +5,7 @@
 #    										     
 ################################################
 
-export base=/Volumes/vdrive/helpern_users/benitez_a/OD_R01
+export base=/run/user/1000/gvfs/smb-share:server=10.177.132.215,share=vdrive/helpern_users/benitez_a/OD_R01
 export ID_file=$base/01_Protocols/ids_dtitk.txt
 export tensors=$base/03_Analysis/DTI-TK/01_Tensor_Prep
 export dtitk=$base/03_Analysis/DTI-TK/02_Tensors
